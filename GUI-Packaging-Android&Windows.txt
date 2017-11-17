@@ -1,0 +1,14 @@
+Andorid projects can be packaged as Apps for different OSs, such as APK for Android or exe for Windows.
+
+Buildozer is such a tool for Android. Installation and using guide:
+https://kivy.org/docs/guide/packaging-android.html
+
+But it might cause a computer death.
+
+Python-for-android is another option to create an APK:
+https://python-for-android.readthedocs.io/en/latest/quickstart/
+
+py2exe is for building Window executiable files:
+http://www.py2exe.org/index.cgi/Tutorial
+
+A Windows computer is needed to test it.
