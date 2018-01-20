@@ -32,6 +32,13 @@ The ways for an element to get size:
 ## Parent and child elements' sizes
 If the parent element's size is not defined and the child's size is, the parent element will automatically adjust its size to fit the child element.
 # JavaScript
+## JavaScript's defects:  
+### 1. == and ===
+In JavaScript, you should always use === to compare to variables, since == automatically converts the two variables before comparing them, often causing very strange results.
+### var and no var
+If you declare a variable without a var before it, JS will make it a generall variable. As a result, if you forget to put a var before a variable that you intend to make local, it might be confused with other variables with the same name. 
+One solusion is to put 'use strict'; at the beginning of every JS file. With this configuration, declarations without an var are donsidered errors.
+
 ## Adjust an element's height:  
 function myFunction() {
     document.getElementById("frame").style.height = "500px"; /*Adjust the element's height*/
