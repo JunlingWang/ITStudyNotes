@@ -8,3 +8,7 @@ Pragmas in Solidity are used to specify certain conditions under which the sourc
 The version pragma specifies what versions of Solidity a source file can work on.  
 Example:
 > pragma solidity ^0.4.0;
+## Types
+int and uint (signed integer and unsigned integer)  
+int (signed) 可正可负  
+uint (unsigned) 只能是正数
