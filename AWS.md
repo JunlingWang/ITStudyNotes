@@ -20,5 +20,5 @@ $ sudo chmod 2775 /var/www
 $ find /var/www -type d -exec sudo chmod 2775 {} \;  
 $ find /var/www -type f -exec sudo chmod 0664 {} \;  
 ## Install Wordpress  
-Download wordpress package from [wordpress.org](https://wordpress.org/), and then upload it to the server's var/www/html folder.  
+(不行)Download wordpress package from [wordpress.org](https://wordpress.org/), and then upload it to the server's var/www/html folder.  
 
