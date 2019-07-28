@@ -20,7 +20,6 @@ $ sudo chmod 2775 /var/www
 $ find /var/www -type d -exec sudo chmod 2775 {} \;  
 $ find /var/www -type f -exec sudo chmod 0664 {} \;  
 ## Install Wordpress  
-(不行,数据库连不上)Download wordpress package from [wordpress.org](https://wordpress.org/), and then upload it to the server's var/www/html folder.  
 Click “Launch new instance”, then search "Wordpress", find the result in Market Place, then install it as normal.  
 Go to instance page, right click instance, Choose Instance Settings/Get system log, and find the username and password.  
 Login to Wordpress.
