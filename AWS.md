@@ -2,6 +2,8 @@
 # Online resources  
 ## Videos
 [Amazon Web Services - EC2 Server Setup - Connect with Webstorm](https://www.youtube.com/watch?v=HfnIL5lM8WY)  
+[How to MANUALLY Migrate Your Wordpress Site](https://www.youtube.com/watch?v=wROa37k_RQA)  
+[Migrate any website to Amazon AWS EC2 in 5 Easy Steps](https://www.youtube.com/watch?v=6eH_XNMUsFQ)  
 ## Text Tutorial
 [Launch and connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance)  
 [Connect with PuTTY and WinSCP](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)  
