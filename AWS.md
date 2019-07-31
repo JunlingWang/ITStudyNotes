@@ -8,7 +8,10 @@
 ## Text Tutorial
 [Launch and connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance)  
 [Connect with PuTTY and WinSCP](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)  
-[Tutorial: Install a LAMP Web Server with the Amazon Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html)
+[Tutorial: Install a LAMP Web Server with the Amazon Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html)  
+[How to Migrate WordPress from AWS EC2 to cPanel-based Shared Hosting](http://www.thegurleyman.com/how-to-migrate-wordpress-from-aws-ec2-to-cpanel-based-shared-hosting/)  
+[Migrate Self-Hosted Wordpress to EC2](https://forums.aws.amazon.com/thread.jspa?threadID=120283)  
+[Migrate Data From One WordPress Instance to Another](https://docs.bitnami.com/aws/how-to/migrate-wordpress/)  
 # Notes
 ## How to open a terminal after connecting to an instance
 Webstorm: Tools -> Start SSH session
