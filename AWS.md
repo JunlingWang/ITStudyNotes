@@ -25,8 +25,12 @@ $ sudo chown -R ec2-user:apache /var/www
 $ sudo chmod 2775 /var/www  
 $ find /var/www -type d -exec sudo chmod 2775 {} \;  
 $ find /var/www -type f -exec sudo chmod 0664 {} \;  
-## Install Wordpress  
+## Wordpress  
+### Installation
 Click “Launch new instance”, then search "Wordpress", find the result in Market Place, then install it as normal.  
 Go to instance page, right click instance, Choose Instance Settings/Get system log, and find the username and password.  
 Login to Wordpress.
+### Migration
+> 1 Go to Wordpress dashboard/tools/export to download a XML file.  
+> 2 Go to the new Wordpress dashboard/tools/import to upload the XML, and all the pages and posts and database is moved to the new site.
 
