@@ -47,5 +47,9 @@ Login to Wordpress.
 > 1. Search it from the market place.  
 > 2. Install it as normal.  
 > 3. The username is "centos".  
+> 4. Connect to the instance through SSH using this username.  
+> 5. Use the "sudo su root" and then "passwd" commands to change to a new password.  
+> 6. https://<publicIP>:2087  (If it warns that the link is unsecure, ignor it.)  go to the login page.  
+> 7. Login using the username "root" and the new password.  
 ### Login
 https://<publicIP>:2087  (If it warns that the link is unsecure, ignor it.)  
