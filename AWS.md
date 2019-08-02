@@ -18,6 +18,9 @@
 [cPanel-Launch an AWS AMI Instance](https://documentation.cpanel.net/display/CKB/Launch+an+AWS+AMI+Instance#LaunchanAWSAMIInstance-LoginviaSSH.)  
 [How to Setup cPanel on AWS](https://hostadvice.com/how-to/how-to-setup-cpanel-on-aws/)  
 # Notes
+## Usernames
+A plain EC2 instance's username is "ec2-user".  
+If you use the "cPanel&WHM for Linux" pre-installed instance from the market place, the username is "centos".  
 ## How to open a terminal after connecting to an instance
 Webstorm: Tools -> Start SSH session
 ## 'No such file' in var
@@ -40,6 +43,9 @@ Login to Wordpress.
 > 2 Go to the new Wordpress dashboard/tools/import to upload the XML, and all the pages and posts and database is moved to the new site.
 ## cPanel
 ### Installation
-?  
+#### "cPanel&WHM for Linux" pre-installed instance
+> 1. Search it from the market place.  
+> 2. Install it as normal.  
+> 3. The username is "centos".  
 ### Login
 https://<publicIP>:2087  (If it warns that the link is unsecure, ignor it.)  
