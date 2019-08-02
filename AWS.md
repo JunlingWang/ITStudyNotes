@@ -14,7 +14,7 @@
 [How to Migrate WordPress from AWS EC2 to cPanel-based Shared Hosting](http://www.thegurleyman.com/how-to-migrate-wordpress-from-aws-ec2-to-cpanel-based-shared-hosting/)  
 [Migrate Self-Hosted Wordpress to EC2](https://forums.aws.amazon.com/thread.jspa?threadID=120283)  
 [Migrate Data From One WordPress Instance to Another](https://docs.bitnami.com/aws/how-to/migrate-wordpress/)  
-[https://tecadmin.net/setup-whm-cpanel-on-aws/](https://tecadmin.net/setup-whm-cpanel-on-aws/)  
+[How to Setup WHM & cPanel on AWS Instances](https://tecadmin.net/setup-whm-cpanel-on-aws/)  
 [cPanel-Launch an AWS AMI Instance](https://documentation.cpanel.net/display/CKB/Launch+an+AWS+AMI+Instance#LaunchanAWSAMIInstance-LoginviaSSH.)  
 [How to Setup cPanel on AWS](https://hostadvice.com/how-to/how-to-setup-cpanel-on-aws/)  
 # Notes
