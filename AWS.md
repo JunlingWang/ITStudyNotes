@@ -59,11 +59,14 @@ Login to Wordpress.
 > 4. Connect to the instance through SSH using this username.  
 > --------Login to WHM--------
 > 5. Use the "sudo su root" and then "passwd" commands to change to a new password.  
-> 6. https://<publicIP>:2087  (If it warns that the link is unsecure, ignor it.)  go to the login page.  
+> 6. https://publicIP:2087  (If it warns that the link is unsecure, ignor it.)  go to the login page.  
 > 7. Login using the username "root" and the new password.  
 > --------Login to cPanel--------
 > 8. Click "Create a new account" to creat a new cPanel account.  
 > 9. Input email, domain name (DNS), usrname, password, etc. You might need a static (elastic) IP to make sure the domain name works all the time.
-> 10. Go to cPanel.  
+> 10. Go to cPanel.  https://publicIP:2083  
 ### Login
-https://<publicIP>:2087  (If it warns that the link is unsecure, ignor it.)  
+WHM:  
+https://publicIP:2087  (If it warns that the link is unsecure, ignor it.)  
+cPanel:  
+https://publicIP:2083  (If it warns that the link is unsecure, ignor it.)  
