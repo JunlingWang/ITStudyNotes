@@ -21,6 +21,15 @@
 ## Usernames
 A plain EC2 instance's username is "ec2-user".  
 If you use the "cPanel&WHM for Linux" pre-installed instance from the market place, the username is "centos".  
+## Setup elastic IP
+> 1. Go to the instance page and shoose the instance and click "Elastic IPs" from the left column.  
+> 2. Hit "Allocate New Address" button.  
+> 3. Click "Allocate".  
+> 4. Close.  
+> 5. Actions -> Associate.  
+> 6. Select instance and private IP, no need to allow reassociate if you don't move it to a new server.  
+> 7. Click "Associate" -> Close.  
+
 ## How to open a terminal after connecting to an instance
 Webstorm: Tools -> Start SSH session
 ## 'No such file' in var
