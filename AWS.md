@@ -63,7 +63,7 @@ Login to Wordpress.
 > 7. Login using the username "root" and the new password.  
 > --------Login to cPanel--------
 > 8. Click "Create a new account" to creat a new cPanel account.  
-> 9. Input email, domain name (DNS), usrname, password, etc. You might need a static (elastic) IP to make sure the domain name works all the time.
+> 9. Input email, domain name (DNS), usrname, password, etc. You might need a **elastic IP** to make sure the domain name works all the time.
 > 10. Go to cPanel.  https://publicIP:2083  
 ### Login
 WHM:  
