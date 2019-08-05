@@ -43,10 +43,28 @@ $ sudo chmod 2775 /var/www
 $ find /var/www -type d -exec sudo chmod 2775 {} \;  
 $ find /var/www -type f -exec sudo chmod 0664 {} \;  
 ## Wordpress  
-### Installation
+### Installation via AWS market place
 Click “Launch new instance”, then search "Wordpress", find the result in Market Place, then install it as normal.  
 Go to instance page, right click instance, Choose Instance Settings/Get system log, and find the username and password.  
 Login to Wordpress.
+### Manual installation  
+> 1. Download from https://wordpress.org/download/  
+> 2. Login to cPanel and click File Manager.  
+> 3. Go to public-html folder and upload the zip file here, and click reload to view the uploaded file.  
+> 4. Right click the file and extract.  
+> 5. Go to the wordpress folder, select all, right click, move to the public-html folder.  
+> 6. Delet useless folders and files such as the zip file (optional).  
+> 7. Go to cPanel main page and click mySQL.  
+> 8. Fill in the new database name and hit "Create Database" then "Go Back".  
+> 9. Create User and go back.  
+> 10. Save the database name, database usernabe, and database password to a safe place.  
+> 11. Hit the "Add" button to add user to database.  
+> 12. Click all priviliges except DROP, and hit Make Changes.  
+> 13. Go to ipaddress/wp-admin and choose language and hit "Let's go".  
+> 14. Fill in the database name, database username, and database password.  
+> 15. Click "Submit" and then "Run the installation".  
+> 16. Fill in wordpress username, password and email address, and click install.  
+> 17. Finished. The domain name (or IP) is the link to the wordpress website.  
 ### Migration
 > 1 Go to Wordpress dashboard/tools/export to download a XML file.  
 > 2 Go to the new Wordpress dashboard/tools/import to upload the XML, and all the pages and posts and database is moved to the new site.
