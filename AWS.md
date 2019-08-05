@@ -7,6 +7,7 @@
 [How to migrate a local WordPress MySQL database to RDS](https://www.youtube.com/watch?v=gwO76ar56Kg)  
 [How To Make Your Own Web Hosting Cpanel in AWS Step by Step | WHM installation](https://www.youtube.com/watch?v=Kmfy6yzDTu0)  
 [How to Install Cpanel/whm on AWS Amazon EC2](https://www.youtube.com/watch?v=qPFcsY6I6vQ)  
+[How to Install WordPress in cPanel Manually Step by Step| cPanel WordPress installation](https://www.youtube.com/watch?v=LIhNlzLgF78)  
 ## Text Tutorial
 [Launch and connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance)  
 [Connect with PuTTY and WinSCP](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html)  
