@@ -84,6 +84,12 @@ Login to Wordpress.
 > 8. Click "Create a new account" to creat a new cPanel account.  
 > 9. Input email, domain name (DNS), usrname, password, etc. You might need a **elastic IP** to make sure the domain name works all the time.
 > 10. Go to cPanel.  https://publicIP:2083  
+#### Manual installation  
+> 1. Connect to server.  
+> 2. $ cd /home  
+> 3. $ wget https://securedownloads.cpanel.net/latest (If permission denied, run the commands in the previous session to get the permission.)    
+> 4. (未完待续)  
+
 ### Login
 WHM:  
 https://publicIP:2087  (If it warns that the link is unsecure, ignor it.)  
