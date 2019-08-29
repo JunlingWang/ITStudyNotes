@@ -14,8 +14,10 @@ for example, search
 # Pragmas
 Pragmas in Solidity are used to specify certain conditions under which the source file can or cannot run.  
 The version pragma specifies what versions of Solidity a source file can work on.  
-Example:
+## Example:
 > pragma solidity ^0.4.0;
+## Define a range of versions
+
 # Types
 int and uint (signed integer and unsigned integer)  
 int (signed) 可正可负  
