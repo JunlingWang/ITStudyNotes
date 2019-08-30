@@ -1,4 +1,5 @@
-Solidity is a language for smart contract apps on Ehereum.
+Solidity is a language for smart contract apps on Ehereum.  
+[Video tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY&t=845s)  
 # IDE
 Online IDE Remix:
 [remix.ethereum.org](http://remix.ethereum.org/) (Chrome 打开更友好)
