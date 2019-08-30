@@ -22,7 +22,9 @@ The version pragma specifies what versions of Solidity a source file can work on
 # Types
 int and uint (signed integer and unsigned integer)  
 int (signed) 可正可负  
-uint (unsigned) 只能是正数
+uint (unsigned) 只能是正数  
+enum (枚举)
+struct(结构体)
 
 # Comments
 // This is an inline comment.
