@@ -25,8 +25,11 @@ uint (unsigned) 只能是正数
 
 # Errors
 > TypeError: Data location must be "memory" for return parameter in function, but none was given  
+
 Solution: add the keyword memory after the data type
+
 Before:  
 > string _value  
+
 After:  
 > string memory _value
