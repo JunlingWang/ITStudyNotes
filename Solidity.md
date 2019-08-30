@@ -24,6 +24,14 @@ int and uint (signed integer and unsigned integer)
 int (signed) 可正可负  
 uint (unsigned) 只能是正数
 
+# Comments
+// This is an inline comment.
+
+/*  
+And  
+this is a multi-line comment.  
+*/  
+
 # Errors
 > TypeError: Data location must be "memory" for return parameter in function, but none was given  
 
