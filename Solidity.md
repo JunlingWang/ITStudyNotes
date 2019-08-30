@@ -1,4 +1,3 @@
-# Solidity Notes
 Solidity is a language for smart contract apps on Ehereum.
 # IDE
 Online IDE Remix:
