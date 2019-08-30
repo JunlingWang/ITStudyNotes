@@ -15,7 +15,8 @@ for example, search
 Pragmas in Solidity are used to specify certain conditions under which the source file can or cannot run.  
 The version pragma specifies what versions of Solidity a source file can work on.  
 ## Example:
-> pragma solidity ^0.4.0;
+> pragma solidity ^0.4.0; // This means the file can not be compiled with compilers earlier than 0.4.0 or later than 0.5.0  
+> pragma solidity >=0.4.0 <0.6.0; // This means the file can not be compiled with compilers earlier than 0.4.0 or later than 0.6.0  
 ## Define a range of versions
 
 # Types
