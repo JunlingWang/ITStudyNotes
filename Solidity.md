@@ -10,6 +10,7 @@ Left hand side column/Plugin manager/search
 for example, search  
 "Solidity Compiler" to find the compiler,  
 "Deploy&run transaction" to run the code in a virtual machine,  
+
 # Pragmas
 Pragmas in Solidity are used to specify certain conditions under which the source file can or cannot run.  
 The version pragma specifies what versions of Solidity a source file can work on.  
@@ -21,3 +22,11 @@ The version pragma specifies what versions of Solidity a source file can work on
 int and uint (signed integer and unsigned integer)  
 int (signed) 可正可负  
 uint (unsigned) 只能是正数
+
+# Errors
+> TypeError: Data location must be "memory" for return parameter in function, but none was given  
+Solution: add the keyword memory after the data type
+Before:  
+> string _value  
+After:  
+> string memory _value
