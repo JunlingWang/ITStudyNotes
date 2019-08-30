@@ -23,8 +23,8 @@ The version pragma specifies what versions of Solidity a source file can work on
 int and uint (signed integer and unsigned integer)  
 int (signed) 可正可负  
 uint (unsigned) 只能是正数  
-enum (枚举，规定了数据对象的有限个取值)
-struct(结构体，规定了数据对象的有限个特征变量)
+enum (枚举，规定了数据对象的有限个取值)  
+struct(结构体，规定了数据对象的有限个特征变量)  
 
 # Comments
 // This is an inline comment.
