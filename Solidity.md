@@ -2,7 +2,7 @@
 1 什么是 msg.sender  
 2 为什么有时需要指明关键字 memory  
 3 migration 是啥  
-4 合同的state是啥意思
+4 合同的state是啥意思  
 5 truffle是啥
 # Solidity 简述
 Solidity is a language for smart contract apps on Ehereum.  
