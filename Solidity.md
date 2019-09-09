@@ -1,5 +1,6 @@
 # 问题
 1 什么是 msg.sender  
+2 为什么有时需要指明关键字 memory  
 # Solidity 简述
 Solidity is a language for smart contract apps on Ehereum.  
 [Video tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY&t=845s)  
