@@ -1,5 +1,6 @@
 # 问题
 1 什么是 msg.sender  
+  It's the address of the account or contract that calls this function.  
 2 为什么有时需要指明关键字 memory  
 3 migration 是啥  
 4 合同的state是啥意思  
