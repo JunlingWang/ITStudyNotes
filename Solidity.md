@@ -32,7 +32,7 @@ int and uint (signed integer and unsigned integer)
 int (signed) 可正可负  
 uint (unsigned) 只能是正数  
 enum (枚举，规定了数据对象的有限个取值)  
-struct(结构体，规定了数据对象的有限个特征变量)  
+struct(结构体，规定了数据对象的有限个特征变量。结构体可以被认为是一个简化的类。类有特变量，还有内置的函数；结构体只有特征变量，没有内置函数。)  
 address(地址，指的是以太坊的地址)  
 
 # Comments
