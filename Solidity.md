@@ -1,6 +1,7 @@
 # 问题
 1 什么是 msg.sender  
   It's the address of the account or contract that calls this function.  
+  Note: In Solidity, function execution always needs to start with an external caller. A contract will just sit on the blockchain doing nothing until someone calls one of its functions. So there will always be a msg.sender.  
 2 为什么有时需要指明关键字 memory  
 3 migration 是啥  
 4 合同的state是啥意思  
