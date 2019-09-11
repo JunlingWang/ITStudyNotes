@@ -21,6 +21,7 @@
 # Notes
 ## Usernames
 A plain EC2 instance's username is "ec2-user".  
+Ubuntu on EC2 has a username of "ubuntu".  
 If you use the "cPanel&WHM for Linux" pre-installed instance from the market place, the username is "centos".  
 ## Setup elastic IP
 > 1. Go to the instance page and shoose the instance and click "Elastic IPs" from the left column.  
