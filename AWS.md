@@ -32,6 +32,7 @@ If you use the "cPanel&WHM for Linux" pre-installed instance from the market pla
 > 7. Click "Associate" -> Close.  
 
 ## How to open a terminal after connecting to an instance
+Webstorm: Tools -> Deployment -> Browse remote host -> click ... -> enter name and choose SFTP -> click OK  
 Webstorm: Tools -> Start SSH session
 ## 'No such file' in var
 $ sudo usermod -a -G apache ec2-user  
