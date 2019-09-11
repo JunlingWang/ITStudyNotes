@@ -38,7 +38,7 @@ At this point, you can send your IP address to the controller, and they can add 
   
 # Operating a sealer's node
 ## Log into the node
-docker exec -it <container ID> geth attach ipc:/root/.ethereum/geth.ipc  
+docker exec -it containerID geth attach ipc:/root/.ethereum/geth.ipc  
 ## Get enode address  
 admin.nodeInfo.enode  
 ## connect to other peers
