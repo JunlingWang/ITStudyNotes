@@ -34,6 +34,7 @@ sudo usermod -aG docker $USER
 4. Stop and restart the instance, run: "docker ps", and you can find the container ID and other information.  
   
 The sealer's node is successfully set up.  
+At this point, you can send your IP address to the controller, and they can add you to the network.  
   
 # Operating a sealer's node
 ## Log into the node
