@@ -4,6 +4,8 @@
 [Ethereum Pet Shop -- Your First Dapp](https://www.trufflesuite.com/tutorials/pet-shop)  
 [CryptoZombies Code School](https://cryptozombies.io/)  
 [Using puppeth To Manually Create An Ethereum Proof Of Authority (Clique) Network On AWS](https://medium.com/@collin.cusce/using-puppeth-to-manually-create-an-ethereum-proof-of-authority-clique-network-on-aws-ae0d7c906cce)  
+# Geth
+[Geth](https://geth.ethereum.org/downloads/) is a Go language implementation of Ethereum blockchain.
 # Setup a sealer's node
 In a PoA blockchain network, there are different types of nodes, including controllers, sealers, etc.  
 To setup a sealer's node in AWS:  
