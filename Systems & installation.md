@@ -7,3 +7,5 @@
 [Show video thumbnails](https://askubuntu.com/questions/1034595/thumbnails-not-showing-in-video-in-ubuntu-18-04) 
 [Show desktop icons](https://itectec.com/ubuntu/ubuntu-ubuntu-20-04-desktop-files-and-icons-missing/)   
 Install deb file: right click/open with software install
+[How to create an icon from a picture for an appimage](https://forums.linuxmint.com/viewtopic.php?t=273402)  
+Some AppImages have a built-in installation option to integrate with your menus and or desktop, others do not. You can double-click them to see, or Right-click your desktop and select Create New Launcher (new desktop shortcut), put in the Name of that application, then click the browse button to the right of the command box and browse to that AppImage file, click ok, if you are asked to add to the menus, say yes.
