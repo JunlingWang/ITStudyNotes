@@ -11,3 +11,11 @@ Install deb file: right click/open with software install
 Some AppImages have a built-in installation option to integrate with your menus and or desktop, others do not. You can double-click them to see, or Right-click your desktop and select Create New Launcher (new desktop shortcut), put in the Name of that application, then click the browse button to the right of the command box and browse to that AppImage file, click ok, if you are asked to add to the menus, say yes.  
 Get rid of poping sound when starting to play audio  
 [How to Fix Popping Sound on Linux](https://www.youtube.com/watch?v=Pdmy8dMWitg)  
+[Make AppImage executable](https://askubuntu.com/questions/774490/what-is-an-appimage-how-do-i-install-it)  
+>Making it executable
+>You can make the appImage executable as follows:  
+>chmod a+x exampleName.AppImage  
+>Executing it  
+>You can execute an appImage as follows:  
+>./exampleName.AppImage  
+
